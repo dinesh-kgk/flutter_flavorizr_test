@@ -1,0 +1,24 @@
+flavors:
+  apple:
+    app:
+      name: "Apple App"
+
+    android:
+      applicationId: "com.example.apple"
+      icon: "assets/launcher_icon.png"
+    ios:
+      bundleId: "com.example.apple"
+      icon: "assets/launcher_icon.png"
+  banana:
+    app:
+      name: "Banana App"
+
+    android:
+      applicationId: "com.example.banana"
+    ios:
+      bundleId: "com.example.banana"
+ide: "idea"
+instructions:
+  - flutter:flavors
+  - ide:config
+
