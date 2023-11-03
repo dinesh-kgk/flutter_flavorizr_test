@@ -1,4 +1,4 @@
-# automatic_keep_alive_test
+# Flutter Flavorizer Test
 
 A new Flutter project.
 
